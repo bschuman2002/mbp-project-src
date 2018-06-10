@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to bottom right, rgb(0, 132, 255), lightgreen);
+}
+
+.title {
+    height: '15px';
+}
+
+.header {
+    text-align: center;
+}
+
+.deleteButton-margin {
+    padding-left: 5em;
+}
