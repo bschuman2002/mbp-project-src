@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-document.title = 'Climate Change Forum';
+document.title = 'Climate Change Forum/Query';
 
 let posts = [];
 const originalPostTitle = 'Climate Change Today';
